@@ -11,6 +11,4 @@ She thinks they are so cute and funny.
 
 ---
 
-Is there anything specific you need to do with this text?
-
 ![Results](https://github.com/Vikranthreddy414/LLM-s/assets/48249218/0980ccf0-d1dd-4603-8581-31470a3c5d3e)
